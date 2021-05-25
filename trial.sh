@@ -7,7 +7,7 @@ hari="1"
 Pass=1
 
 
-echo Script AutoCreate Akun SSH dan OpenVPN by Luffy
+echo Script AutoCreate Akun SSH dan OpenVPN by LostServer
 sleep 1
 echo Ping Host
 echo Cek Hak Akses...

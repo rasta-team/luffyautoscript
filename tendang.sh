@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script by : Luffy
+# Script by : LostServer
 #!/bin/bash
 clear
 MAX=2
